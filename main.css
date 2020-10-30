@@ -1,4 +1,7 @@
 body{
   background-color: rgba(43, 39, 39, 1);
-  color: rgb(255, 255, 255, 1);
+  color: rgba(255, 255, 255, 1);
+}
+b{
+  color: rgb(106, 204, 122)
 }
